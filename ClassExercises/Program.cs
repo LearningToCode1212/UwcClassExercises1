@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            int[] numbers = { 2, 4, 7 };
+            int[] numbers = { 2, 4, 7, 10, 11 };
             bool checknumbers = OddNumbers.CheckOddNumbers(numbers);
             if (checknumbers)
             {
